@@ -11,13 +11,8 @@ autosize: true
 
 ## Rules
 
-- Name the film studio/distributor from their (clipped) animated intros.
-- One point for each correct answer (obviously).
-
-<br /><br />
-...and before you even try, no, you can't look at the source code to find the
-answers.
-
+- Name the song and artist.
+- One point for each!
 
 ## Question 1
 <audio controls><source src="01.wav" type="audio/wav"></audio>
