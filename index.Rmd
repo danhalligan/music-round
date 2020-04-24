@@ -20,32 +20,32 @@ answers.
 
 
 ## Question 1
-<video controls><source src="1.aif" type="video/aif"></video>
+<audio controls><source src="1.aif" type="audio/aif"></audio>
 
 ## Question 2
-<video controls><source src="2.aif" type="video/aif"></video>
+<audio controls><source src="2.aif" type="audio/aif"></audio>
 
 ## Question 3
-<video controls><source src="3.aif" type="video/aif"></video>
+<audio controls><source src="3.aif" type="audio/aif"></audio>
 
 ## Question 4
-<video controls><source src="4.aif" type="video/aif"></video>
+<audio controls><source src="4.aif" type="audio/aif"></audio>
 
 ## Question 5
-<video controls><source src="5.aif" type="video/aif"></video>
+<audio controls><source src="5.aif" type="audio/aif"></audio>
 
 ## Question 6
-<video controls><source src="6.m4a" type="video/m4a"></video>
+<audio controls><source src="6.m4a" type="audio/m4a"></audio>
 
 ## Question 7
-<video controls><source src="7.m4a" type="video/m4a"></video>
+<audio controls><source src="7.m4a" type="audio/m4a"></audio>
 
 ## Question 8
-<video controls><source src="8.m4a" type="video/m4a"></video>
+<audio controls><source src="8.m4a" type="audio/m4a"></audio>
 
 ## Question 9
-<video controls><source src="9.m4a" type="video/m4a"></video>
+<audio controls><source src="9.m4a" type="audio/m4a"></audio>
 
 ## Question 10
-<video controls><source src="10.m4a" type="video/m4a"></video>
+<audio controls><source src="10.m4a" type="audio/m4a"></audio>
 
